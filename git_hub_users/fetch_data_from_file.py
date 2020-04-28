@@ -130,8 +130,3 @@ def insert_into_excel():
 #insert_into_excel()
 print('last tested.....')
 print('last tested.....')
-print('last tested.....')
-print('last tested.....')
-print('last tested.....')
-print('last tested.....')
-print('last tested.....')
